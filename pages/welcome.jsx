@@ -4,7 +4,7 @@ const Welcome = () => {
     return (
     <>
         <div>
-            하이
+            하이2
         </div>
     </>
     )
