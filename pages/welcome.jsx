@@ -1,12 +1,10 @@
-import React from "react"
+import React from 'react';
 
 const Welcome = () => {
-    return (
+  return (
     <>
-        <div>
-            하이4
-        </div>
+      <div>하이4</div>
     </>
-    )
-}
-export default Welcome
+  );
+};
+export default Welcome;
